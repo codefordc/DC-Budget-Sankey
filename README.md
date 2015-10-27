@@ -14,5 +14,3 @@ Visualization of how DC funds flow into specific agencies.
 
 
 [Github](https://github.com/codeisland/RI-Budget-Sankey)
-
-[FY 2015 Budget as Enacted](http://www.budget.ri.gov/CurrentYear/GovernorsBudget.php)
