@@ -1,0 +1,22 @@
+{
+  "name": "DC-Budget-Sankey",
+  "version": "1.0.0",
+  "description": "Sankey graph of the DC budget",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://mkalish@github.com/mkalish/RI-Budget-Sankey.git"
+  },
+  "author": "mkalish",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mkalish/RI-Budget-Sankey/issues"
+  },
+  "homepage": "https://github.com/mkalish/RI-Budget-Sankey",
+  "dependencies": {
+    "through": "^2.3.8"
+  }
+}
