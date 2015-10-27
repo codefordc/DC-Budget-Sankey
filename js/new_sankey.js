@@ -34,561 +34,561 @@ d3.mytimer = function(e, t, r) {
             n: null
         };
     d3_timer_queueTail ? d3_timer_queueTail.n = o : d3_timer_queueHead = o, d3_timer_queueTail = o, d3_timer_interval || (d3_timer_timeout = clearTimeout(d3_timer_timeout), d3_timer_interval = 1, d3_timer_frame(d3_timer_step))
-}, myData = [{"source":"General Fund","target":"Captive Insurance Agency","value":"22505370.99"}
+}, myData = [{"source":"General Fund","target":"Captive Insurance Agency","value":22505371}
 ,
-{"source":"General Fund","target":"Office of the District of Columbia Auditor","value":"4240984.02"}
+{"source":"General Fund","target":"Office of the District of Columbia Auditor","value":4240984}
 ,
-{"source":"General Fund","target":"Advisory Neighborhood Commissions","value":"924012.02"}
+{"source":"General Fund","target":"Advisory Neighborhood Commissions","value":924012}
 ,
-{"source":"General Fund","target":"Uniform Law Commission","value":"50000.02"}
+{"source":"General Fund","target":"Uniform Law Commission","value":50000}
 ,
-{"source":"General Fund","target":"Office of the Mayor","value":"9321693.09"}
+{"source":"General Fund","target":"Office of the Mayor","value":9321693}
 ,
-{"source":"General Fund","target":"Mayor's Office of Legal Counsel","value":"0"}
+{"source":"General Fund","target":"Mayor's Office of Legal Counsel","value":0}
 ,
-{"source":"General Fund","target":"Office of the Senior Advisor","value":"0"}
+{"source":"General Fund","target":"Office of the Senior Advisor","value":0}
 ,
-{"source":"General Fund","target":"Office of the Secretary","value":"3914685.95"}
+{"source":"General Fund","target":"Office of the Secretary","value":3914686}
 ,
-{"source":"General Fund","target":"Office of the City Administrator","value":"3713952"}
+{"source":"General Fund","target":"Office of the City Administrator","value":3713952}
 ,
-{"source":"General Fund","target":"Deputy Mayor for Greater Economic Opportunity","value":"0"}
+{"source":"General Fund","target":"Deputy Mayor for Greater Economic Opportunity","value":0}
 ,
-{"source":"General Fund","target":"D.C. Office of Risk Management","value":"3124189"}
+{"source":"General Fund","target":"D.C. Office of Risk Management","value":3124189}
 ,
-{"source":"General Fund","target":"D.C. Department of Human Resources","value":"8676701.66"}
+{"source":"General Fund","target":"D.C. Department of Human Resources","value":8676702}
 ,
-{"source":"General Fund","target":"Office of Disability Rights","value":"1043466.02"}
+{"source":"General Fund","target":"Office of Disability Rights","value":1043466}
 ,
-{"source":"General Fund","target":"Captive Insurance Agency","value":"1600145"}
+{"source":"General Fund","target":"Captive Insurance Agency","value":1600145}
 ,
-{"source":"General Fund","target":"Office of Finance and Resource Management","value":"21708886.76"}
+{"source":"General Fund","target":"Office of Finance and Resource Management","value":21708887}
 ,
-{"source":"General Fund","target":"Office of Contracting and Procurement","value":"17644855"}
+{"source":"General Fund","target":"Office of Contracting and Procurement","value":17644855}
 ,
-{"source":"General Fund","target":"Office of the Chief Technology Officer","value":"70115819.2"}
+{"source":"General Fund","target":"Office of the Chief Technology Officer","value":70115819}
 ,
-{"source":"General Fund","target":"Contract Appeals Board","value":"1426098"}
+{"source":"General Fund","target":"Contract Appeals Board","value":1426098}
 ,
-{"source":"General Fund","target":"Department of General Services","value":"307184405.18"}
+{"source":"General Fund","target":"Department of General Services","value":307184405}
 ,
-{"source":"General Fund","target":"Board of Elections","value":"7239921"}
+{"source":"General Fund","target":"Board of Elections","value":7239921}
 ,
-{"source":"General Fund","target":"Office of Campaign Finance","value":"2798476"}
+{"source":"General Fund","target":"Office of Campaign Finance","value":2798476}
 ,
-{"source":"General Fund","target":"Public Employee Relations Board","value":"1253206.01"}
+{"source":"General Fund","target":"Public Employee Relations Board","value":1253206}
 ,
-{"source":"General Fund","target":"Municipal Facilities: Non-Capital","value":"0"}
+{"source":"General Fund","target":"Municipal Facilities: Non-Capital","value":0}
 ,
-{"source":"General Fund","target":"Office of Employee Appeals","value":"1570426"}
+{"source":"General Fund","target":"Office of Employee Appeals","value":1570426}
 ,
-{"source":"General Fund","target":"Access to Justice","value":"0"}
+{"source":"General Fund","target":"Access to Justice","value":0}
 ,
-{"source":"General Fund","target":"Metropolitan Washington Council of Governments","value":"449727.02"}
+{"source":"General Fund","target":"Metropolitan Washington Council of Governments","value":449727}
 ,
-{"source":"General Fund","target":"Office of the Attorney General for the District of Columbia","value":"67830806.42"}
+{"source":"General Fund","target":"Office of the Attorney General for the District of Columbia","value":67830806}
 ,
-{"source":"General Fund","target":"D.C. Board of Ethics and Government Accountability","value":"1497583.05"}
+{"source":"General Fund","target":"D.C. Board of Ethics and Government Accountability","value":1497583}
 ,
-{"source":"General Fund","target":"Innovation Fund","value":"0"}
+{"source":"General Fund","target":"Innovation Fund","value":0}
 ,
-{"source":"General Fund","target":"Statehood Initiative Agency","value":"225800"}
+{"source":"General Fund","target":"Statehood Initiative Agency","value":225800}
 ,
-{"source":"General Fund","target":"Office of the Inspector General","value":"14347682.01"}
+{"source":"General Fund","target":"Office of the Inspector General","value":14347682}
 ,
-{"source":"General Fund","target":"Tax Revision Commission","value":"0"}
+{"source":"General Fund","target":"Tax Revision Commission","value":0}
 ,
-{"source":"General Fund","target":"Office of the Chief Financial Officer","value":"158203699.96"}
+{"source":"General Fund","target":"Office of the Chief Financial Officer","value":158203700}
 ,
-{"source":"General Fund","target":"Section 103 Judgments - Government Direction and Support","value":"0"}
+{"source":"General Fund","target":"Section 103 Judgments - Government Direction and Support","value":0}
 ,
-{"source":"General Fund","target":"Office of the Deputy Mayor for Planning  and Economic Development","value":"41137471.98"}
+{"source":"General Fund","target":"Office of the Deputy Mayor for Planning  and Economic Development","value":41137472}
 ,
-{"source":"General Fund","target":"Office of Planning","value":"9438826.91"}
+{"source":"General Fund","target":"Office of Planning","value":9438827}
 ,
-{"source":"General Fund","target":"Department of Small and Local Business Development","value":"8985254.07"}
+{"source":"General Fund","target":"Department of Small and Local Business Development","value":8985254}
 ,
-{"source":"General Fund","target":"Office of Motion Picture and Television Development","value":"3699820"}
+{"source":"General Fund","target":"Office of Motion Picture and Television Development","value":3699820}
 ,
-{"source":"General Fund","target":"Office of Film, Television, and Entertainment","value":"0"}
+{"source":"General Fund","target":"Office of Film, Television, and Entertainment","value":0}
 ,
-{"source":"General Fund","target":"Office of Zoning","value":"2704735"}
+{"source":"General Fund","target":"Office of Zoning","value":2704735}
 ,
-{"source":"General Fund","target":"Department of Housing and Community Development","value":"21625092.03"}
+{"source":"General Fund","target":"Department of Housing and Community Development","value":21625092}
 ,
-{"source":"General Fund","target":"Department of Employment Services","value":"89271572.67"}
+{"source":"General Fund","target":"Department of Employment Services","value":89271573}
 ,
-{"source":"General Fund","target":"Real Property Tax Appeals Commission","value":"1749390"}
+{"source":"General Fund","target":"Real Property Tax Appeals Commission","value":1749390}
 ,
-{"source":"General Fund","target":"Department of Consumer and Regulatory Affairs","value":"47701357.8"}
+{"source":"General Fund","target":"Department of Consumer and Regulatory Affairs","value":47701358}
 ,
-{"source":"General Fund","target":"Office of the Tenant Advocate","value":"2488012.01"}
+{"source":"General Fund","target":"Office of the Tenant Advocate","value":2488012}
 ,
-{"source":"General Fund","target":"Commission on the Arts and Humanities","value":"15802585.01"}
+{"source":"General Fund","target":"Commission on the Arts and Humanities","value":15802585}
 ,
-{"source":"General Fund","target":"Alcoholic Beverage Regulation Administration","value":"7445930.36"}
+{"source":"General Fund","target":"Alcoholic Beverage Regulation Administration","value":7445930}
 ,
-{"source":"General Fund","target":"Public Service Commission","value":"12159253.33"}
+{"source":"General Fund","target":"Public Service Commission","value":12159253}
 ,
-{"source":"General Fund","target":"Office of the People's Counsel","value":"6911031.17"}
+{"source":"General Fund","target":"Office of the People's Counsel","value":6911031}
 ,
-{"source":"General Fund","target":"Department of Insurance, Securities, and Banking","value":"22117944.44"}
+{"source":"General Fund","target":"Department of Insurance, Securities, and Banking","value":22117944}
 ,
-{"source":"General Fund","target":"Office of Cable Television","value":"9444066.12"}
+{"source":"General Fund","target":"Office of Cable Television","value":9444066}
 ,
-{"source":"General Fund","target":"Housing Authority Subsidy","value":"45963276"}
+{"source":"General Fund","target":"Housing Authority Subsidy","value":45963276}
 ,
-{"source":"General Fund","target":"Housing Production Trust Fund Subsidy","value":"0"}
+{"source":"General Fund","target":"Housing Production Trust Fund Subsidy","value":0}
 ,
-{"source":"General Fund","target":"Business Improvement Districts Transfer","value":"25000000.02"}
+{"source":"General Fund","target":"Business Improvement Districts Transfer","value":25000000}
 ,
-{"source":"General Fund","target":"Section 103 Judgements-Econ Dev & Regul","value":"0"}
+{"source":"General Fund","target":"Section 103 Judgements-Econ Dev & Regul","value":0}
 ,
-{"source":"General Fund","target":"Metropolitan Police Department","value":"484869964"}
+{"source":"General Fund","target":"Metropolitan Police Department","value":484869964}
 ,
-{"source":"General Fund","target":"Fire and Emergency Medical Services Department","value":"203082924.06"}
+{"source":"General Fund","target":"Fire and Emergency Medical Services Department","value":203082924}
 ,
-{"source":"General Fund","target":"Police Officers' and Fire Fighters' Retirement System","value":"111330000"}
+{"source":"General Fund","target":"Police Officers' and Fire Fighters' Retirement System","value":111330000}
 ,
-{"source":"General Fund","target":"Department of Corrections","value":"151409856.76"}
+{"source":"General Fund","target":"Department of Corrections","value":151409857}
 ,
-{"source":"General Fund","target":"District of Columbia National Guard","value":"5065881.01"}
+{"source":"General Fund","target":"District of Columbia National Guard","value":5065881}
 ,
-{"source":"General Fund","target":"Homeland Security and Emergency Management Agency","value":"2085250.02"}
+{"source":"General Fund","target":"Homeland Security and Emergency Management Agency","value":2085250}
 ,
-{"source":"General Fund","target":"Judicial Nomination Commission","value":"0"}
+{"source":"General Fund","target":"Judicial Nomination Commission","value":0}
 ,
-{"source":"General Fund","target":"Office of Police Complaints","value":"2241298.48"}
+{"source":"General Fund","target":"Office of Police Complaints","value":2241298}
 ,
-{"source":"General Fund","target":"District of Columbia Sentencing and Criminal Code Revision Commission","value":"1401315.01"}
+{"source":"General Fund","target":"District of Columbia Sentencing and Criminal Code Revision Commission","value":1401315}
 ,
-{"source":"General Fund","target":"Office of the Chief Medical Examiner","value":"9518948.66"}
+{"source":"General Fund","target":"Office of the Chief Medical Examiner","value":9518949}
 ,
-{"source":"General Fund","target":"Office of Administrative Hearings","value":"8703036.02"}
+{"source":"General Fund","target":"Office of Administrative Hearings","value":8703036}
 ,
-{"source":"General Fund","target":"Criminal Justice Coordinating Council","value":"526107"}
+{"source":"General Fund","target":"Criminal Justice Coordinating Council","value":526107}
 ,
-{"source":"General Fund","target":"Office of Unified Communications","value":"43481429.57"}
+{"source":"General Fund","target":"Office of Unified Communications","value":43481430}
 ,
-{"source":"General Fund","target":"Forensic Laboratory Technician Training Program","value":"0"}
+{"source":"General Fund","target":"Forensic Laboratory Technician Training Program","value":0}
 ,
-{"source":"General Fund","target":"Department of Forensic Sciences","value":"14471513.99"}
+{"source":"General Fund","target":"Department of Forensic Sciences","value":14471514}
 ,
-{"source":"General Fund","target":"Office of the Deputy Mayor for Public Safety and Justice","value":"21878355.02"}
+{"source":"General Fund","target":"Office of the Deputy Mayor for Public Safety and Justice","value":21878355}
 ,
-{"source":"General Fund","target":"Office of Victim Services","value":"0"}
+{"source":"General Fund","target":"Office of Victim Services","value":0}
 ,
-{"source":"General Fund","target":"Corrections Information Council","value":"0"}
+{"source":"General Fund","target":"Corrections Information Council","value":0}
 ,
-{"source":"General Fund","target":"Office of Victim Services and Justice Grants","value":"0"}
+{"source":"General Fund","target":"Office of Victim Services and Justice Grants","value":0}
 ,
-{"source":"General Fund","target":"Section 103 Judgments-Public Safety and Justice","value":"0"}
+{"source":"General Fund","target":"Section 103 Judgments-Public Safety and Justice","value":0}
 ,
-{"source":"General Fund","target":"District of Columbia Public Schools","value":"709688546.04"}
+{"source":"General Fund","target":"District of Columbia Public Schools","value":709688546}
 ,
-{"source":"General Fund","target":"Teachers' Retirement System","value":"39513000.01"}
+{"source":"General Fund","target":"Teachers' Retirement System","value":39513000}
 ,
-{"source":"General Fund","target":"Office of the State Superintendent of Education","value":"142544860.58"}
+{"source":"General Fund","target":"Office of the State Superintendent of Education","value":142544861}
 ,
-{"source":"General Fund","target":"District of Columbia Public Charter Schools","value":"675407996"}
+{"source":"General Fund","target":"District of Columbia Public Charter Schools","value":675407996}
 ,
-{"source":"General Fund","target":"University of the District of Columbia Subsidy Account","value":"72457573"}
+{"source":"General Fund","target":"University of the District of Columbia Subsidy Account","value":72457573}
 ,
-{"source":"General Fund","target":"District of Columbia Public Library","value":"56824835.88"}
+{"source":"General Fund","target":"District of Columbia Public Library","value":56824836}
 ,
-{"source":"General Fund","target":"District of Columbia Public Charter School Board","value":"6741289.97"}
+{"source":"General Fund","target":"District of Columbia Public Charter School Board","value":6741290}
 ,
-{"source":"General Fund","target":"Office of Public Education Facilities Modernization","value":"0"}
+{"source":"General Fund","target":"Office of Public Education Facilities Modernization","value":0}
 ,
-{"source":"General Fund","target":"Non-Public Tuition","value":"74339737.01"}
+{"source":"General Fund","target":"Non-Public Tuition","value":74339737}
 ,
-{"source":"General Fund","target":"Special Education Transportation","value":"93562426.03"}
+{"source":"General Fund","target":"Special Education Transportation","value":93562426}
 ,
-{"source":"General Fund","target":"D.C. State Board of Education","value":"1151555"}
+{"source":"General Fund","target":"D.C. State Board of Education","value":1151555}
 ,
-{"source":"General Fund","target":"Office of the Deputy Mayor for Education","value":"6917249"}
+{"source":"General Fund","target":"Office of the Deputy Mayor for Education","value":6917249}
 ,
-{"source":"General Fund","target":"Section 103 Judgments-Public Education System","value":"0"}
+{"source":"General Fund","target":"Section 103 Judgments-Public Education System","value":0}
 ,
-{"source":"General Fund","target":"Department of Human Services","value":"237747149.85"}
+{"source":"General Fund","target":"Department of Human Services","value":237747150}
 ,
-{"source":"General Fund","target":"Child and Family Services Agency","value":"169577877.01"}
+{"source":"General Fund","target":"Child and Family Services Agency","value":169577877}
 ,
-{"source":"General Fund","target":"Department of Behavioral Health","value":"235445085.56"}
+{"source":"General Fund","target":"Department of Behavioral Health","value":235445086}
 ,
-{"source":"General Fund","target":"Department of Health","value":"91995407.86"}
+{"source":"General Fund","target":"Department of Health","value":91995408}
 ,
-{"source":"General Fund","target":"Department of Parks and Recreation","value":"43296683.41"}
+{"source":"General Fund","target":"Department of Parks and Recreation","value":43296683}
 ,
-{"source":"General Fund","target":"D.C. Office on Aging","value":"32973922"}
+{"source":"General Fund","target":"D.C. Office on Aging","value":32973922}
 ,
-{"source":"General Fund","target":"Unemployment Compensation Fund","value":"6887000"}
+{"source":"General Fund","target":"Unemployment Compensation Fund","value":6887000}
 ,
-{"source":"General Fund","target":"Employees' Compensation Fund","value":"20221001.99"}
+{"source":"General Fund","target":"Employees' Compensation Fund","value":20221002}
 ,
-{"source":"General Fund","target":"Office of Human Rights","value":"3137908.69"}
+{"source":"General Fund","target":"Office of Human Rights","value":3137909}
 ,
-{"source":"General Fund","target":"Office on Latino Affairs","value":"2768724"}
+{"source":"General Fund","target":"Office on Latino Affairs","value":2768724}
 ,
-{"source":"General Fund","target":"Children and Youth Investment Collaborative","value":"3000000"}
+{"source":"General Fund","target":"Children and Youth Investment Collaborative","value":3000000}
 ,
-{"source":"General Fund","target":"Office on Asian and Pacific Islander Affairs","value":"942646"}
+{"source":"General Fund","target":"Office on Asian and Pacific Islander Affairs","value":942646}
 ,
-{"source":"General Fund","target":"Office of Veterans' Affairs","value":"415595.01"}
+{"source":"General Fund","target":"Office of Veterans' Affairs","value":415595}
 ,
-{"source":"General Fund","target":"Department of Youth Rehabilitation Services","value":"105898578.01"}
+{"source":"General Fund","target":"Department of Youth Rehabilitation Services","value":105898578}
 ,
-{"source":"General Fund","target":"Department on Disability Services","value":"123479895.01"}
+{"source":"General Fund","target":"Department on Disability Services","value":123479895}
 ,
-{"source":"General Fund","target":"Department of Health Care Finance","value":"786063165.14"}
+{"source":"General Fund","target":"Department of Health Care Finance","value":786063165}
 ,
-{"source":"General Fund","target":"Not-for-Profit Hospital Corp. Subsidy","value":"0"}
+{"source":"General Fund","target":"Not-for-Profit Hospital Corp. Subsidy","value":0}
 ,
-{"source":"General Fund","target":"D.C. Health Benefit Exchange Subsidy","value":"28751244"}
+{"source":"General Fund","target":"D.C. Health Benefit Exchange Subsidy","value":28751244}
 ,
-{"source":"General Fund","target":"Office of the Deputy Mayor for Health and  Human Services","value":"1171975.01"}
+{"source":"General Fund","target":"Office of the Deputy Mayor for Health and  Human Services","value":1171975}
 ,
-{"source":"General Fund","target":"Section 103 Judgements-Human Services","value":"0"}
+{"source":"General Fund","target":"Section 103 Judgements-Human Services","value":0}
 ,
-{"source":"General Fund","target":"Department of Public Works","value":"128108710.99"}
+{"source":"General Fund","target":"Department of Public Works","value":128108711}
 ,
-{"source":"General Fund","target":"District Department of Transportation","value":"103155794.13"}
+{"source":"General Fund","target":"District Department of Transportation","value":103155794}
 ,
-{"source":"General Fund","target":"Department of Motor Vehicles","value":"38847764.66"}
+{"source":"General Fund","target":"Department of Motor Vehicles","value":38847765}
 ,
-{"source":"General Fund","target":"Department of Energy and Environment","value":"79314289.29"}
+{"source":"General Fund","target":"Department of Energy and Environment","value":79314289}
 ,
-{"source":"General Fund","target":"D.C. Taxicab Commission","value":"8269714.02"}
+{"source":"General Fund","target":"D.C. Taxicab Commission","value":8269714}
 ,
-{"source":"General Fund","target":"Washington Metropolitan Area Transit Commission","value":"126569.03"}
+{"source":"General Fund","target":"Washington Metropolitan Area Transit Commission","value":126569}
 ,
-{"source":"General Fund","target":"Washington Metropolitan Area Transit Authority","value":"330520280.77"}
+{"source":"General Fund","target":"Washington Metropolitan Area Transit Authority","value":330520281}
 ,
-{"source":"General Fund","target":"School Transit Subsidy","value":"0"}
+{"source":"General Fund","target":"School Transit Subsidy","value":0}
 ,
-{"source":"General Fund","target":"Repayment of Loans and Interest","value":"600694279.69"}
+{"source":"General Fund","target":"Repayment of Loans and Interest","value":600694280}
 ,
-{"source":"General Fund","target":"Repayment of Interest on Short-Term Borrowing","value":"2500000.02"}
+{"source":"General Fund","target":"Repayment of Interest on Short-Term Borrowing","value":2500000}
 ,
-{"source":"General Fund","target":"Certificates of Participation","value":"22670075.02"}
+{"source":"General Fund","target":"Certificates of Participation","value":22670075}
 ,
-{"source":"General Fund","target":"Debt Service - Issuance Costs","value":"6000000.03"}
+{"source":"General Fund","target":"Debt Service - Issuance Costs","value":6000000}
 ,
-{"source":"General Fund","target":"Schools Modernization Fund","value":"11411712.03"}
+{"source":"General Fund","target":"Schools Modernization Fund","value":11411712}
 ,
-{"source":"General Fund","target":"Repayment of Revenue Bonds","value":"7839188.78"}
+{"source":"General Fund","target":"Repayment of Revenue Bonds","value":7839189}
 ,
-{"source":"General Fund","target":"Settlements and Judgments","value":"21292448.01"}
+{"source":"General Fund","target":"Settlements and Judgments","value":21292448}
 ,
-{"source":"General Fund","target":"John A. Wilson Building Fund","value":"4469127.01"}
+{"source":"General Fund","target":"John A. Wilson Building Fund","value":4469127}
 ,
-{"source":"General Fund","target":"Workforce Investments","value":"42052487.02"}
+{"source":"General Fund","target":"Workforce Investments","value":42052487}
 ,
-{"source":"General Fund","target":"Non-Departmental","value":"18653391.03"}
+{"source":"General Fund","target":"Non-Departmental","value":18653391}
 ,
-{"source":"General Fund","target":"Master Equipment Lease/Purchase Program","value":"51548346.97"}
+{"source":"General Fund","target":"Master Equipment Lease/Purchase Program","value":51548347}
 ,
-{"source":"General Fund","target":"Pay-As-You-Go Capital Fund","value":"28936729.02"}
+{"source":"General Fund","target":"Pay-As-You-Go Capital Fund","value":28936729}
 ,
-{"source":"General Fund","target":"District Retiree Health Contribution","value":"91400000.01"}
+{"source":"General Fund","target":"District Retiree Health Contribution","value":91400000}
 ,
-{"source":"General Fund","target":"Baseball Dedicated Tax Transfer","value":"0"}
+{"source":"General Fund","target":"Baseball Dedicated Tax Transfer","value":0}
 ,
-{"source":"General Fund","target":"Highway Transportation Fund Transfers","value":"37685032.04"}
+{"source":"General Fund","target":"Highway Transportation Fund Transfers","value":37685032}
 ,
-{"source":"General Fund","target":"Inaugural Expenses","value":"0"}
+{"source":"General Fund","target":"Inaugural Expenses","value":0}
 ,
-{"source":"General Fund","target":"Convention Center Transfer-Dedicated Taxes","value":"115719000.03"}
+{"source":"General Fund","target":"Convention Center Transfer-Dedicated Taxes","value":115719000}
 ,
-{"source":"General Fund","target":"TIF and Pilot Transfer - Dedicated Taxes","value":"0"}
+{"source":"General Fund","target":"TIF and Pilot Transfer - Dedicated Taxes","value":0}
 ,
-{"source":"Federal Resources","target":"Office of the Mayor","value":"2994707.26"}
+{"source":"Federal Resources","target":"Office of the Mayor","value":2994707}
 ,
-{"source":"Federal Resources","target":"Office of Disability Rights","value":"536097.23"}
+{"source":"Federal Resources","target":"Office of Disability Rights","value":536097}
 ,
-{"source":"Federal Resources","target":"Office of the Chief Technology Officer","value":"0"}
+{"source":"Federal Resources","target":"Office of the Chief Technology Officer","value":0}
 ,
-{"source":"Federal Resources","target":"Board of Elections","value":"0"}
+{"source":"Federal Resources","target":"Board of Elections","value":0}
 ,
-{"source":"Federal Resources","target":"Office of the Attorney General for the District of Columbia","value":"21202251.12"}
+{"source":"Federal Resources","target":"Office of the Attorney General for the District of Columbia","value":21202251}
 ,
-{"source":"Federal Resources","target":"Office of the Inspector General","value":"2572202.47"}
+{"source":"Federal Resources","target":"Office of the Inspector General","value":2572202}
 ,
-{"source":"Federal Resources","target":"Office of the Chief Financial Officer","value":"525000"}
+{"source":"Federal Resources","target":"Office of the Chief Financial Officer","value":525000}
 ,
-{"source":"Federal Resources","target":"Office of the Deputy Mayor for Planning  and Economic Development","value":"1800000"}
+{"source":"Federal Resources","target":"Office of the Deputy Mayor for Planning  and Economic Development","value":1800000}
 ,
-{"source":"Federal Resources","target":"Office of Planning","value":"508999.98"}
+{"source":"Federal Resources","target":"Office of Planning","value":509000}
 ,
-{"source":"Federal Resources","target":"Department of Small and Local Business Development","value":"460693.01"}
+{"source":"Federal Resources","target":"Department of Small and Local Business Development","value":460693}
 ,
-{"source":"Federal Resources","target":"Department of Housing and Community Development","value":"41354299.02"}
+{"source":"Federal Resources","target":"Department of Housing and Community Development","value":41354299}
 ,
-{"source":"Federal Resources","target":"Department of Employment Services","value":"61413735.53"}
+{"source":"Federal Resources","target":"Department of Employment Services","value":61413736}
 ,
-{"source":"Federal Resources","target":"Commission on the Arts and Humanities","value":"657500"}
+{"source":"Federal Resources","target":"Commission on the Arts and Humanities","value":657500}
 ,
-{"source":"Federal Resources","target":"Public Service Commission","value":"367252.89"}
+{"source":"Federal Resources","target":"Public Service Commission","value":367253}
 ,
-{"source":"Federal Resources","target":"Department of Insurance, Securities, and Banking","value":"0"}
+{"source":"Federal Resources","target":"Department of Insurance, Securities, and Banking","value":0}
 ,
-{"source":"Federal Resources","target":"Metropolitan Police Department","value":"4010028.87"}
+{"source":"Federal Resources","target":"Metropolitan Police Department","value":4010029}
 ,
-{"source":"Federal Resources","target":"Fire and Emergency Medical Services Department","value":"1637728.71"}
+{"source":"Federal Resources","target":"Fire and Emergency Medical Services Department","value":1637729}
 ,
-{"source":"Federal Resources","target":"Department of Corrections","value":"0"}
+{"source":"Federal Resources","target":"Department of Corrections","value":0}
 ,
-{"source":"Federal Resources","target":"District of Columbia National Guard","value":"7638527.01"}
+{"source":"Federal Resources","target":"District of Columbia National Guard","value":7638527}
 ,
-{"source":"Federal Resources","target":"Homeland Security and Emergency Management Agency","value":"107467356.91"}
+{"source":"Federal Resources","target":"Homeland Security and Emergency Management Agency","value":107467357}
 ,
-{"source":"Federal Resources","target":"Commission on Judicial Disabilities and Tenure","value":"295000"}
+{"source":"Federal Resources","target":"Commission on Judicial Disabilities and Tenure","value":295000}
 ,
-{"source":"Federal Resources","target":"Judicial Nomination Commission","value":"270000"}
+{"source":"Federal Resources","target":"Judicial Nomination Commission","value":270000}
 ,
-{"source":"Federal Resources","target":"Office of Administrative Hearings","value":"60000.03"}
+{"source":"Federal Resources","target":"Office of Administrative Hearings","value":60000}
 ,
-{"source":"Federal Resources","target":"Criminal Justice Coordinating Council","value":"1900000"}
+{"source":"Federal Resources","target":"Criminal Justice Coordinating Council","value":1900000}
 ,
-{"source":"Federal Resources","target":"Forensic Laboratory Technician Training Program","value":"0"}
+{"source":"Federal Resources","target":"Forensic Laboratory Technician Training Program","value":0}
 ,
-{"source":"Federal Resources","target":"Department of Forensic Sciences","value":"759041.8"}
+{"source":"Federal Resources","target":"Department of Forensic Sciences","value":759042}
 ,
-{"source":"Federal Resources","target":"Office of the Deputy Mayor for Public Safety and Justice","value":"8179371"}
+{"source":"Federal Resources","target":"Office of the Deputy Mayor for Public Safety and Justice","value":8179371}
 ,
-{"source":"Federal Resources","target":"Office of Victim Services","value":"0"}
+{"source":"Federal Resources","target":"Office of Victim Services","value":0}
 ,
-{"source":"Federal Resources","target":"Office of Victim Services and Justice Grants","value":"0"}
+{"source":"Federal Resources","target":"Office of Victim Services and Justice Grants","value":0}
 ,
-{"source":"Federal Resources","target":"District of Columbia Public Schools","value":"53458044.74"}
+{"source":"Federal Resources","target":"District of Columbia Public Schools","value":53458045}
 ,
-{"source":"Federal Resources","target":"Office of the State Superintendent of Education","value":"255067626.25"}
+{"source":"Federal Resources","target":"Office of the State Superintendent of Education","value":255067626}
 ,
-{"source":"Federal Resources","target":"District of Columbia Public Library","value":"903472"}
+{"source":"Federal Resources","target":"District of Columbia Public Library","value":903472}
 ,
-{"source":"Federal Resources","target":"Department of Human Services","value":"170977458.49"}
+{"source":"Federal Resources","target":"Department of Human Services","value":170977458}
 ,
-{"source":"Federal Resources","target":"Child and Family Services Agency","value":"65555384.51"}
+{"source":"Federal Resources","target":"Child and Family Services Agency","value":65555385}
 ,
-{"source":"Federal Resources","target":"Department of Behavioral Health","value":"22039328.28"}
+{"source":"Federal Resources","target":"Department of Behavioral Health","value":22039328}
 ,
-{"source":"Federal Resources","target":"Department of Health","value":"131218632.69"}
+{"source":"Federal Resources","target":"Department of Health","value":131218633}
 ,
-{"source":"Federal Resources","target":"Department of Parks and Recreation","value":"0"}
+{"source":"Federal Resources","target":"Department of Parks and Recreation","value":0}
 ,
-{"source":"Federal Resources","target":"D.C. Office on Aging","value":"7735720.79"}
+{"source":"Federal Resources","target":"D.C. Office on Aging","value":7735721}
 ,
-{"source":"Federal Resources","target":"Office of Human Rights","value":"267000"}
+{"source":"Federal Resources","target":"Office of Human Rights","value":267000}
 ,
-{"source":"Federal Resources","target":"Department of Youth Rehabilitation Services","value":"0"}
+{"source":"Federal Resources","target":"Department of Youth Rehabilitation Services","value":0}
 ,
-{"source":"Federal Resources","target":"Department on Disability Services","value":"34510369.32"}
+{"source":"Federal Resources","target":"Department on Disability Services","value":34510369}
 ,
-{"source":"Federal Resources","target":"Department of Health Care Finance","value":"2049018069.81"}
+{"source":"Federal Resources","target":"Department of Health Care Finance","value":2049018070}
 ,
-{"source":"Federal Resources","target":"District Department of Transportation","value":"3610000.01"}
+{"source":"Federal Resources","target":"District Department of Transportation","value":3610000}
 ,
-{"source":"Federal Resources","target":"Department of Motor Vehicles","value":"0"}
+{"source":"Federal Resources","target":"Department of Motor Vehicles","value":0}
 ,
-{"source":"Federal Resources","target":"Department of Energy and Environment","value":"24381968.95"}
+{"source":"Federal Resources","target":"Department of Energy and Environment","value":24381969}
 ,
-{"source":"Federal Resources","target":"Washington Metropolitan Area Transit Authority","value":"0"}
+{"source":"Federal Resources","target":"Washington Metropolitan Area Transit Authority","value":0}
 ,
-{"source":"Federal Resources","target":"Repayment of Loans and Interest","value":"0"}
+{"source":"Federal Resources","target":"Repayment of Loans and Interest","value":0}
 ,
-{"source":"Federal Resources","target":"Emergency Planning and Security Fund","value":"12500000"}
+{"source":"Federal Resources","target":"Emergency Planning and Security Fund","value":12500000}
 ,
-{"source":"Intra-District Funds","target":"Council of the District of Columbia","value":"0"}
+{"source":"Intra-District Funds","target":"Council of the District of Columbia","value":0}
 ,
-{"source":"Intra-District Funds","target":"Office of the Mayor","value":"0"}
+{"source":"Intra-District Funds","target":"Office of the Mayor","value":0}
 ,
-{"source":"Intra-District Funds","target":"Office of the Secretary","value":"0"}
+{"source":"Intra-District Funds","target":"Office of the Secretary","value":0}
 ,
-{"source":"Intra-District Funds","target":"Office of the City Administrator","value":"0"}
+{"source":"Intra-District Funds","target":"Office of the City Administrator","value":0}
 ,
-{"source":"Intra-District Funds","target":"Office of the Chief Technology Officer","value":"0"}
+{"source":"Intra-District Funds","target":"Office of the Chief Technology Officer","value":0}
 ,
-{"source":"Intra-District Funds","target":"Department of General Services","value":"0"}
+{"source":"Intra-District Funds","target":"Department of General Services","value":0}
 ,
-{"source":"Intra-District Funds","target":"Office of the Attorney General for the District of Columbia","value":"390903.24"}
+{"source":"Intra-District Funds","target":"Office of the Attorney General for the District of Columbia","value":390903}
 ,
-{"source":"Intra-District Funds","target":"Office of the Chief Financial Officer","value":"0"}
+{"source":"Intra-District Funds","target":"Office of the Chief Financial Officer","value":0}
 ,
-{"source":"Intra-District Funds","target":"Office of Planning","value":"1000"}
+{"source":"Intra-District Funds","target":"Office of Planning","value":1000}
 ,
-{"source":"Intra-District Funds","target":"Department of Housing and Community Development","value":"0"}
+{"source":"Intra-District Funds","target":"Department of Housing and Community Development","value":0}
 ,
-{"source":"Intra-District Funds","target":"Department of Employment Services","value":"80000.02"}
+{"source":"Intra-District Funds","target":"Department of Employment Services","value":80000}
 ,
-{"source":"Intra-District Funds","target":"Public Service Commission","value":"22000.01"}
+{"source":"Intra-District Funds","target":"Public Service Commission","value":22000}
 ,
-{"source":"Intra-District Funds","target":"Department of Insurance, Securities, and Banking","value":"0"}
+{"source":"Intra-District Funds","target":"Department of Insurance, Securities, and Banking","value":0}
 ,
-{"source":"Intra-District Funds","target":"Metropolitan Police Department","value":"0"}
+{"source":"Intra-District Funds","target":"Metropolitan Police Department","value":0}
 ,
-{"source":"Intra-District Funds","target":"Office of Police Complaints","value":"0"}
+{"source":"Intra-District Funds","target":"Office of Police Complaints","value":0}
 ,
-{"source":"Intra-District Funds","target":"Criminal Justice Coordinating Council","value":"0"}
+{"source":"Intra-District Funds","target":"Criminal Justice Coordinating Council","value":0}
 ,
-{"source":"Intra-District Funds","target":"Office of the Deputy Mayor for Public Safety and Justice","value":"0"}
+{"source":"Intra-District Funds","target":"Office of the Deputy Mayor for Public Safety and Justice","value":0}
 ,
-{"source":"Intra-District Funds","target":"District of Columbia Public Schools","value":"0"}
+{"source":"Intra-District Funds","target":"District of Columbia Public Schools","value":0}
 ,
-{"source":"Intra-District Funds","target":"Office of the State Superintendent of Education","value":"117147.12"}
+{"source":"Intra-District Funds","target":"Office of the State Superintendent of Education","value":117147}
 ,
-{"source":"Intra-District Funds","target":"District of Columbia Public Library","value":"0"}
+{"source":"Intra-District Funds","target":"District of Columbia Public Library","value":0}
 ,
-{"source":"Intra-District Funds","target":"D.C. State Board of Education","value":"0"}
+{"source":"Intra-District Funds","target":"D.C. State Board of Education","value":0}
 ,
-{"source":"Intra-District Funds","target":"Department of Human Services","value":"0"}
+{"source":"Intra-District Funds","target":"Department of Human Services","value":0}
 ,
-{"source":"Intra-District Funds","target":"Child and Family Services Agency","value":"40977.38"}
+{"source":"Intra-District Funds","target":"Child and Family Services Agency","value":40977}
 ,
-{"source":"Intra-District Funds","target":"Department of Behavioral Health","value":"472074.92"}
+{"source":"Intra-District Funds","target":"Department of Behavioral Health","value":472075}
 ,
-{"source":"Intra-District Funds","target":"Department of Health","value":"0"}
+{"source":"Intra-District Funds","target":"Department of Health","value":0}
 ,
-{"source":"Intra-District Funds","target":"Department of Parks and Recreation","value":"0"}
+{"source":"Intra-District Funds","target":"Department of Parks and Recreation","value":0}
 ,
-{"source":"Intra-District Funds","target":"D.C. Office on Aging","value":"0"}
+{"source":"Intra-District Funds","target":"D.C. Office on Aging","value":0}
 ,
-{"source":"Intra-District Funds","target":"Office of Human Rights","value":"0"}
+{"source":"Intra-District Funds","target":"Office of Human Rights","value":0}
 ,
-{"source":"Intra-District Funds","target":"Department on Disability Services","value":"10000"}
+{"source":"Intra-District Funds","target":"Department on Disability Services","value":10000}
 ,
-{"source":"Intra-District Funds","target":"Department of Health Care Finance","value":"0"}
+{"source":"Intra-District Funds","target":"Department of Health Care Finance","value":0}
 ,
-{"source":"Intra-District Funds","target":"District Department of Transportation","value":"0"}
+{"source":"Intra-District Funds","target":"District Department of Transportation","value":0}
 ,
-{"source":"Intra-District Funds","target":"Department of Energy and Environment","value":"995000.01"}
+{"source":"Intra-District Funds","target":"Department of Energy and Environment","value":995000}
 ,
-{"source":"Intra-District Funds","target":"Council of the District of Columbia","value":"69720.01"}
+{"source":"Intra-District Funds","target":"Council of the District of Columbia","value":69720}
 ,
-{"source":"Intra-District Funds","target":"Office of the District of Columbia Auditor","value":"0"}
+{"source":"Intra-District Funds","target":"Office of the District of Columbia Auditor","value":0}
 ,
-{"source":"Intra-District Funds","target":"Office of the Mayor","value":"504023.02"}
+{"source":"Intra-District Funds","target":"Office of the Mayor","value":504023}
 ,
-{"source":"Intra-District Funds","target":"Office of the City Administrator","value":"338933.59"}
+{"source":"Intra-District Funds","target":"Office of the City Administrator","value":338934}
 ,
-{"source":"Intra-District Funds","target":"D.C. Office of Risk Management","value":"0"}
+{"source":"Intra-District Funds","target":"D.C. Office of Risk Management","value":0}
 ,
-{"source":"Intra-District Funds","target":"D.C. Department of Human Resources","value":"4350151.19"}
+{"source":"Intra-District Funds","target":"D.C. Department of Human Resources","value":4350151}
 ,
-{"source":"Intra-District Funds","target":"Office of Disability Rights","value":"70000"}
+{"source":"Intra-District Funds","target":"Office of Disability Rights","value":70000}
 ,
-{"source":"Intra-District Funds","target":"Office of Finance and Resource Management","value":"13638643.4"}
+{"source":"Intra-District Funds","target":"Office of Finance and Resource Management","value":13638643}
 ,
-{"source":"Intra-District Funds","target":"Office of Contracting and Procurement","value":"0"}
+{"source":"Intra-District Funds","target":"Office of Contracting and Procurement","value":0}
 ,
-{"source":"Intra-District Funds","target":"Office of the Chief Technology Officer","value":"29927164.6"}
+{"source":"Intra-District Funds","target":"Office of the Chief Technology Officer","value":29927165}
 ,
-{"source":"Intra-District Funds","target":"Department of General Services","value":"132389212"}
+{"source":"Intra-District Funds","target":"Department of General Services","value":132389212}
 ,
-{"source":"Intra-District Funds","target":"Municipal Facilities: Non-Capital","value":"0"}
+{"source":"Intra-District Funds","target":"Municipal Facilities: Non-Capital","value":0}
 ,
-{"source":"Intra-District Funds","target":"Office of the Attorney General for the District of Columbia","value":"20029768.87"}
+{"source":"Intra-District Funds","target":"Office of the Attorney General for the District of Columbia","value":20029769}
 ,
-{"source":"Intra-District Funds","target":"Office of the Inspector General","value":"0"}
+{"source":"Intra-District Funds","target":"Office of the Inspector General","value":0}
 ,
-{"source":"Intra-District Funds","target":"Office of the Chief Financial Officer","value":"7618877.41"}
+{"source":"Intra-District Funds","target":"Office of the Chief Financial Officer","value":7618877}
 ,
-{"source":"Intra-District Funds","target":"Office of the Deputy Mayor for Planning  and Economic Development","value":"443889.72"}
+{"source":"Intra-District Funds","target":"Office of the Deputy Mayor for Planning  and Economic Development","value":443890}
 ,
-{"source":"Intra-District Funds","target":"Office of Planning","value":"0"}
+{"source":"Intra-District Funds","target":"Office of Planning","value":0}
 ,
-{"source":"Intra-District Funds","target":"Department of Small and Local Business Development","value":"0"}
+{"source":"Intra-District Funds","target":"Department of Small and Local Business Development","value":0}
 ,
-{"source":"Intra-District Funds","target":"Office of Zoning","value":"24000"}
+{"source":"Intra-District Funds","target":"Office of Zoning","value":24000}
 ,
-{"source":"Intra-District Funds","target":"Department of Housing and Community Development","value":"133886279.33"}
+{"source":"Intra-District Funds","target":"Department of Housing and Community Development","value":133886279}
 ,
-{"source":"Intra-District Funds","target":"Department of Employment Services","value":"0"}
+{"source":"Intra-District Funds","target":"Department of Employment Services","value":0}
 ,
-{"source":"Intra-District Funds","target":"Department of Consumer and Regulatory Affairs","value":"0"}
+{"source":"Intra-District Funds","target":"Department of Consumer and Regulatory Affairs","value":0}
 ,
-{"source":"Intra-District Funds","target":"Office of the Tenant Advocate","value":"0"}
+{"source":"Intra-District Funds","target":"Office of the Tenant Advocate","value":0}
 ,
-{"source":"Intra-District Funds","target":"Commission on the Arts and Humanities","value":"0"}
+{"source":"Intra-District Funds","target":"Commission on the Arts and Humanities","value":0}
 ,
-{"source":"Intra-District Funds","target":"Alcoholic Beverage Regulation Administration","value":"0"}
+{"source":"Intra-District Funds","target":"Alcoholic Beverage Regulation Administration","value":0}
 ,
-{"source":"Intra-District Funds","target":"Public Service Commission","value":"0"}
+{"source":"Intra-District Funds","target":"Public Service Commission","value":0}
 ,
-{"source":"Intra-District Funds","target":"Department of Insurance, Securities, and Banking","value":"0"}
+{"source":"Intra-District Funds","target":"Department of Insurance, Securities, and Banking","value":0}
 ,
-{"source":"Intra-District Funds","target":"Office of Cable Television","value":"0"}
+{"source":"Intra-District Funds","target":"Office of Cable Television","value":0}
 ,
-{"source":"Intra-District Funds","target":"Housing Authority Subsidy","value":"0"}
+{"source":"Intra-District Funds","target":"Housing Authority Subsidy","value":0}
 ,
-{"source":"Intra-District Funds","target":"Metropolitan Police Department","value":"24757852.08"}
+{"source":"Intra-District Funds","target":"Metropolitan Police Department","value":24757852}
 ,
-{"source":"Intra-District Funds","target":"Fire and Emergency Medical Services Department","value":"0"}
+{"source":"Intra-District Funds","target":"Fire and Emergency Medical Services Department","value":0}
 ,
-{"source":"Intra-District Funds","target":"Department of Corrections","value":"169454.14"}
+{"source":"Intra-District Funds","target":"Department of Corrections","value":169454}
 ,
-{"source":"Intra-District Funds","target":"Homeland Security and Emergency Management Agency","value":"0"}
+{"source":"Intra-District Funds","target":"Homeland Security and Emergency Management Agency","value":0}
 ,
-{"source":"Intra-District Funds","target":"Office of the Chief Medical Examiner","value":"0"}
+{"source":"Intra-District Funds","target":"Office of the Chief Medical Examiner","value":0}
 ,
-{"source":"Intra-District Funds","target":"Office of Administrative Hearings","value":"1641263.49"}
+{"source":"Intra-District Funds","target":"Office of Administrative Hearings","value":1641263}
 ,
-{"source":"Intra-District Funds","target":"Criminal Justice Coordinating Council","value":"70004.36"}
+{"source":"Intra-District Funds","target":"Criminal Justice Coordinating Council","value":70004}
 ,
-{"source":"Intra-District Funds","target":"Office of Unified Communications","value":"278177.65"}
+{"source":"Intra-District Funds","target":"Office of Unified Communications","value":278178}
 ,
-{"source":"Intra-District Funds","target":"Homeland Security Grants","value":"5341919.57"}
+{"source":"Intra-District Funds","target":"Homeland Security Grants","value":5341920}
 ,
-{"source":"Intra-District Funds","target":"Department of Forensic Sciences","value":"988042.28"}
+{"source":"Intra-District Funds","target":"Department of Forensic Sciences","value":988042}
 ,
-{"source":"Intra-District Funds","target":"Office of the Deputy Mayor for Public Safety and Justice","value":"200393.01"}
+{"source":"Intra-District Funds","target":"Office of the Deputy Mayor for Public Safety and Justice","value":200393}
 ,
-{"source":"Intra-District Funds","target":"Office of Victim Services","value":"0"}
+{"source":"Intra-District Funds","target":"Office of Victim Services","value":0}
 ,
-{"source":"Intra-District Funds","target":"District of Columbia Public Schools","value":"104257099.78"}
+{"source":"Intra-District Funds","target":"District of Columbia Public Schools","value":104257100}
 ,
-{"source":"Intra-District Funds","target":"Office of the State Superintendent of Education","value":"38188288"}
+{"source":"Intra-District Funds","target":"Office of the State Superintendent of Education","value":38188288}
 ,
-{"source":"Intra-District Funds","target":"District of Columbia Public Library","value":"0"}
+{"source":"Intra-District Funds","target":"District of Columbia Public Library","value":0}
 ,
-{"source":"Intra-District Funds","target":"Office of Public Education Facilities Modernization","value":"0"}
+{"source":"Intra-District Funds","target":"Office of Public Education Facilities Modernization","value":0}
 ,
-{"source":"Intra-District Funds","target":"Special Education Transportation","value":"5000000.01"}
+{"source":"Intra-District Funds","target":"Special Education Transportation","value":5000000}
 ,
-{"source":"Intra-District Funds","target":"Department of Human Services","value":"11480815.89"}
+{"source":"Intra-District Funds","target":"Department of Human Services","value":11480816}
 ,
-{"source":"Intra-District Funds","target":"Child and Family Services Agency","value":"11092000.01"}
+{"source":"Intra-District Funds","target":"Child and Family Services Agency","value":11092000}
 ,
-{"source":"Intra-District Funds","target":"Department of Behavioral Health","value":"18862679.23"}
+{"source":"Intra-District Funds","target":"Department of Behavioral Health","value":18862679}
 ,
-{"source":"Intra-District Funds","target":"Department of Health","value":"49486785.29"}
+{"source":"Intra-District Funds","target":"Department of Health","value":49486785}
 ,
-{"source":"Intra-District Funds","target":"Department of Parks and Recreation","value":"2265000.01"}
+{"source":"Intra-District Funds","target":"Department of Parks and Recreation","value":2265000}
 ,
-{"source":"Intra-District Funds","target":"D.C. Office on Aging","value":"2558317"}
+{"source":"Intra-District Funds","target":"D.C. Office on Aging","value":2558317}
 ,
-{"source":"Intra-District Funds","target":"Office of Human Rights","value":"0"}
+{"source":"Intra-District Funds","target":"Office of Human Rights","value":0}
 ,
-{"source":"Intra-District Funds","target":"Office on Latino Affairs","value":"200000"}
+{"source":"Intra-District Funds","target":"Office on Latino Affairs","value":200000}
 ,
-{"source":"Intra-District Funds","target":"Office on Asian and Pacific Islander Affairs","value":"0"}
+{"source":"Intra-District Funds","target":"Office on Asian and Pacific Islander Affairs","value":0}
 ,
-{"source":"Intra-District Funds","target":"Department of Youth Rehabilitation Services","value":"386150.03"}
+{"source":"Intra-District Funds","target":"Department of Youth Rehabilitation Services","value":386150}
 ,
-{"source":"Intra-District Funds","target":"Department on Disability Services","value":"50869"}
+{"source":"Intra-District Funds","target":"Department on Disability Services","value":50869}
 ,
-{"source":"Intra-District Funds","target":"Department of Health Care Finance","value":"74624813.72"}
+{"source":"Intra-District Funds","target":"Department of Health Care Finance","value":74624814}
 ,
-{"source":"Intra-District Funds","target":"Department of Public Works","value":"23511445.23"}
+{"source":"Intra-District Funds","target":"Department of Public Works","value":23511445}
 ,
-{"source":"Intra-District Funds","target":"District Department of Transportation","value":"0"}
+{"source":"Intra-District Funds","target":"District Department of Transportation","value":0}
 ,
-{"source":"Intra-District Funds","target":"Department of Motor Vehicles","value":"7383542.44"}
+{"source":"Intra-District Funds","target":"Department of Motor Vehicles","value":7383542}
 ,
-{"source":"Intra-District Funds","target":"Department of Energy and Environment","value":"1150237.55"}
+{"source":"Intra-District Funds","target":"Department of Energy and Environment","value":1150238}
 ,
-{"source":"Intra-District Funds","target":"D.C. Taxicab Commission","value":"200000"}
+{"source":"Intra-District Funds","target":"D.C. Taxicab Commission","value":200000}
 ,
-{"source":"Intra-District Funds","target":"Washington Metropolitan Area Transit Authority","value":"0"}];
+{"source":"Intra-District Funds","target":"Washington Metropolitan Area Transit Authority","value":0}];
 var margin = {
     top: 50,
     right: 210,

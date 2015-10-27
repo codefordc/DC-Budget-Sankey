@@ -23,7 +23,7 @@ fs.createReadStream('budget.csv')
     var value = {
       source: source,
       target: target,
-      value: record['2015']
+      value: Math.round(record['2015'])
     }
     this.push(value);
     callback();
