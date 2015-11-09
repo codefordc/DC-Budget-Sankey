@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/mkalish/RI-Budget-Sankey",
   "dependencies": {
+    "highland": "^2.5.1",
     "through": "^2.3.8"
   }
 }

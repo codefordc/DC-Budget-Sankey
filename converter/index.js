@@ -1,6 +1,7 @@
 var csv = require('csv');
 var fs = require('fs');
 var through = require('through2');
+var _ = require('highland');
 var JSONStream = JSONStream = require('JSONStream');
 
 // Read in csv
@@ -15,29 +16,26 @@ var b2015 = 'b2015.json';
 
 var parser = csv.parse({columns: true});
 
-fs.createReadStream('budget.csv')
-  .pipe(parser)
-  .pipe(through.obj(function(record, enc, callback){
+_(fs.createReadStream('budget.csv')
+  .pipe(parser))
+  .map(function(record){
     var source = record['Fund'];
-    var target = record['Agency'];
-    var value = {
+    var target = record['Department'];
+    var department = {
       source: source,
       target: target,
-      value: Math.round(record['2015'])
+      value: Math.round(record['2011'])
     }
-    this.push(value);
-    callback();
-  }))
-  .pipe(JSONStream.stringify())
-  .pipe(fs.createWriteStream('b2015.json'))
-  //.pipe(process.stdout)
-  .on('error', function(err){
-    console.log(err);
+
+    var source = record['Department'];
+    var target = record['Agency'];
+    var agency = {
+      source: source,
+      target: target,
+      value: Math.round(record['2011'])
+    };
+    return [department, agency];
   })
-  .on('end', function(){
-    console.log('DONE');
-  });
-  // .pipe(csv.transform(function(record){
-  //
-  //   return record;
-  // }))
+  .flatten()
+  .pipe(JSONStream.stringify())
+  .pipe(fs.createWriteStream('b2011.json'));
