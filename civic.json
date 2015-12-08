@@ -1,0 +1,48 @@
+{
+    "conformsTo": "http://codefordc.org/resources/specification.html",
+    "status": "Alpha",
+    "thumbnailUrl": "",
+    "contact": {
+        "name": "Michael Kalish",
+        "email": "kalishmichael@gmail.com",
+        "twitter": ""
+    },
+    "bornAt": "Socrata/Open Data Hackathon",
+    "geography": "Washington DC",
+    "politicalEntity": {},
+    "governmentPartner": {},
+    "communityPartner": {},
+    "type": "Web App",
+    "data": {
+        "https://github.com/codefordc/DC-Budget-Sankey/blob/master/converter/budget.csv": ""
+    },
+    "needs": [
+        {
+            "need": "D3 experts"
+        },
+        {
+            "need": "Washington DC Budget Experts"
+        },
+        {
+            "need": "Designer"
+        },
+        {
+            "need": "Data scientist"
+        }
+    ],
+    "categories": [
+        {
+            "category": "Taxes"
+        },
+        {
+            "category": "Budget"
+        },
+        {
+            "category": "Visualizations"
+        },
+        {
+            "category": "Open Data"
+        }
+    ],
+    "moreInfo": ""
+}
