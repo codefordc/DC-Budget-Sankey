@@ -1,48 +1,40 @@
 {
-    "conformsTo": "http://codefordc.org/resources/specification.html",
-    "status": "Alpha",
-    "thumbnailUrl": "",
+    "name": "DC Budget Sankey Graph", 
+    "description": "", 
+    "license": "CC0-1.0", 
+    "status": "Alpha", 
+    "type": "Web App", 
+    "homepage": "http://mkalish.github.io/DC-Budget-Sankey/", 
+    "repository": "https://github.com/codefordc/DC-Budget-Sankey", 
+    "thumbnail": "", 
+    "geography": [
+        "Washington DC"
+    ], 
     "contact": {
-        "name": "Michael Kalish",
-        "email": "kalishmichael@gmail.com",
-        "twitter": ""
-    },
-    "bornAt": "Socrata/Open Data Hackathon",
-    "geography": "Washington DC",
-    "politicalEntity": {},
-    "governmentPartner": {},
-    "communityPartner": {},
-    "type": "Web App",
-    "data": {
-        "https://github.com/codefordc/DC-Budget-Sankey/blob/master/converter/budget.csv": ""
-    },
-    "needs": [
+        "name": "Michael Kalish", 
+        "email": "kalishmichael@gmail.com", 
+        "url": ""
+    }, 
+    "partners": [
         {
-            "need": "D3 experts"
-        },
-        {
-            "need": "Washington DC Budget Experts"
-        },
-        {
-            "need": "Designer"
-        },
-        {
-            "need": "Data scientist"
+            "url": "http://codefordc.org", 
+            "name": "Code for DC", 
+            "email": ""
         }
-    ],
-    "categories": [
+    ], 
+    "data": [
         {
-            "category": "Taxes"
-        },
-        {
-            "category": "Budget"
-        },
-        {
-            "category": "Visualizations"
-        },
-        {
-            "category": "Open Data"
+            "url": "", 
+            "name": "https://github.com/codefordc/DC-Budget-Sankey/blob/master/converter/budget.csv", 
+            "metadata": ""
         }
-    ],
-    "moreInfo": ""
+    ], 
+    "tags": [
+        "Taxes", 
+        "Budget", 
+        "Visualizations", 
+        "Open Data"
+    ], 
+    "links": [], 
+    "id": "https://raw.githubusercontent.com/DCgov/civic.json/master/schemas/schema-v1.json"
 }
